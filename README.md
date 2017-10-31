@@ -1,2 +1,4 @@
 # GameCreativity
-a game idea each week, have fun with it
+
+收集游戏创意，构思新的游戏机制，完善设计文档
+目标：每日一个游戏创意！
