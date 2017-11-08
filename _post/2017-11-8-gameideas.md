@@ -1,5 +1,6 @@
 ---
-title: 每周游戏创意
+title: '每周游戏创意'
+subtitle: '每周一个游戏创意'
 layout: game
 ---
 
