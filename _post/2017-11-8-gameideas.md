@@ -1,7 +1,7 @@
 ---
 title: '每周游戏创意'
 subtitle: '每周一个游戏创意'
-layout: game
+layout: post
 ---
 
 ## No.1变成动物的超能力者
