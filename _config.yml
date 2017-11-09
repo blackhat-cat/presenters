@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:  '游戏创意库'
+tagline: game creative
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:  blackhat-cat
+  url:   http://blackhat-cat.github.io
