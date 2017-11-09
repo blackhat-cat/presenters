@@ -1,6 +1,5 @@
 ---
-title: games
-layout: post
+
 ---
 
 ## No.1变成动物的超能力者
